@@ -53,3 +53,9 @@ print("-----------")
 
 #To replace the sub-string "Mary" with "Bob":
 print(g.replace("Mary","Bob"))
+
+print("-----------")
+
+#To reverse the string:
+r = "ABCDEFG"
+print(r[::-1])
